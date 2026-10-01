@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Vs code programs",
+			"path": "../../../Vs code programs"
+		},
+		{
+			"name": "java",
+			"path": "../../../../../../../java"
+		},
+		{
+			"name": "New folder",
+			"path": "../../../../../../../java/New folder"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
